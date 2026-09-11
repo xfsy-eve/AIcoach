@@ -16,8 +16,7 @@
 
 ```text
 请帮我安装个性化AI学习教练。
-项目地址：https://github.com/Eveline160919103/AI-
-技能文件夹：child-learning-coach
+项目地址：https://github.com/Eveline160919103/AIcoach.git
 安装后请检查技能文件是否完整，并告诉我是否已安装成功。
 ```
 
