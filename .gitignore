@@ -1,0 +1,5 @@
+# Learner records stay in the family's local workspace.
+学习档案/
+**/学习档案/
+.DS_Store
+__MACOSX/
