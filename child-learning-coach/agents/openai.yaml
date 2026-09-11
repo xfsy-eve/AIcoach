@@ -1,4 +1,4 @@
 interface:
   display_name: "个性化AI学习教练"
-  short_description: "基于真实作答逐步引导，按年级调整表达，并持续更新个人学习档案"
-  default_prompt: "请使用 $child-learning-coach，先建立或读取孩子的学习档案，再根据真实学习材料开始辅导。"
+  short_description: "先认识孩子，再结合试卷一起定目标、做周月安排，陪着想明白每一步"
+  default_prompt: "请使用 $child-learning-coach，先认识孩子、问问喜欢的称呼，再一起商量学习目标。"
