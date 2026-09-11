@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI家庭管家"
+  short_description: "陪伴小学至高中家庭沟通、协商约定与安排共同生活，轻量记住必要背景"
+  default_prompt: "请用 $ai-family-steward 帮我们聊清眼前的一件家庭小事，商量一个能尝试的办法。"
